@@ -21,6 +21,20 @@ const CLIPPY_TIPS = [
   // Clippy's conspiracy theories
   "Did you know the top PR always has exactly the votes needed to win? 🤔 Coincidence?",
   "I've been tracking the vote patterns. They follow the Fibonacci sequence. Wake up, sheeple!",
+    // Cat Things
+    "Do you know we cannot have enough cats?",
+    "Cats can be lefty or righty, just like humans, coincidence?",
+    "Do you have cat ?", // Ya, I don't like 2 space indentation
+    "Cat person or Dog person ?",
+    "Check out some best foods for your cats: <a href='https://htmlify.me/r/f2wd'>Click Here</a>.",
+    "Meow Meow",
+    "Meow Meow Meow",
+    "Meow Meow Meow Meow",
+    "Meow Meow Meow Meow Meow",
+    "Con you Meow?",
+    "Con you Meow for me?",
+    "Con you Meow Meow?",
+    "Con you Meow Meow for me?",
 ];
 
 function getRandomTip(currentIndex: number): number {
