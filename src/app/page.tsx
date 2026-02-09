@@ -24,7 +24,7 @@ export default function Home() {
             </tr>
             <tr>
               <td>
-                <img src="/dickbutt.gif" style={{ width: "321px", display: "block", margin: "0 auto" }} />
+                <img src="/oia.gif" style={{ width: "321px", display: "block", margin: "0 auto" }} />
               </td>
             </tr>
             <tr>
